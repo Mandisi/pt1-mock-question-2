@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 //                         COMPUTER METHODS 3 PRACTICAL TEST 1 (MOCK)
-// Name:
-// Student No:
-// Date: 
+// Name: Mandisi Shunqukela
+// Student No: 212529699
+// Date: 16/03/2016
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
 
@@ -32,3 +32,5 @@ int main(int argc, char *argv[]) {
 	cout << "Design 1 starts at " << mins << " past " << hours;   // display time in another format
 
 }
+
+
